@@ -1,0 +1,29 @@
+{
+  "files": {
+    "cat-bells-derwentwater.mp4": {
+      "parts": 4,
+      "sha256": "3b0d425bfdc2d3d3db944fb0ce21f83b66c7b8f213aa04fcc85e7e7e4ae1c06b",
+      "bytes": 10439735
+    },
+    "toledo-historic-quarter.mp4": {
+      "parts": 9,
+      "sha256": "b08552496852e798762e773e5bb20d18fccbb6e7016651311b261732f7d8f9c1",
+      "bytes": 24042680
+    },
+    "chambord-canal.mp4": {
+      "parts": 5,
+      "sha256": "0fa2fb9eba4e0d49d98b8ccd015b5a42944449519f7661ded3f547a5fd2ca0fa",
+      "bytes": 14385324
+    },
+    "capri-pizzolungo.mp4": {
+      "parts": 6,
+      "sha256": "4b86cbeb8d22e531113366066d0b62dca9db2e293cae6e37ff2320a7f0ecd883",
+      "bytes": 15348206
+    },
+    "boston-freedom-trail.mp4": {
+      "parts": 8,
+      "sha256": "f0e2edf2ed135edcf9c1ee0ee52c6e6b13909e8cfe7b49e1d1d50dd1c3dce451",
+      "bytes": 22615868
+    }
+  }
+}
