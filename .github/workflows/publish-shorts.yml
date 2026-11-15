@@ -1,0 +1,45 @@
+name: Publish shorts
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "incoming/**"
+      - ".github/workflows/publish-shorts.yml"
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode media and publish release assets
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p shorts
+          shopt -s nullglob
+          for f in incoming/*.mp4.b64; do
+            name=$(basename "$f" .b64)
+            base64 -d "$f" > "shorts/${name}"
+            echo "Decoded $f -> shorts/${name} ($(wc -c < "shorts/${name}") bytes)"
+          done
+          for d in incoming/*.mp4.b64.d; do
+            [ -d "$d" ] || continue
+            name=$(basename "$d" .b64.d)
+            if [ -f "shorts/${name}" ]; then
+              continue
+            fi
+            cat "$d"/part-* | base64 -d > "shorts/${name}"
+            echo "Decoded chunks $d -> shorts/${name} ($(wc -c < "shorts/${name}") bytes)"
+          done
+          ls -lh shorts
+          if [ -z "$(ls -A shorts/*.mp4 2>/dev/null)" ]; then
+            echo "No MP4s to publish"
+            exit 1
+          fi
+          if gh release view shorts >/dev/null 2>&1; then
+            gh release upload shorts shorts/*.mp4 --clobber
+          else
+            gh release create shorts shorts/*.mp4 --title "Route Stories Shorts" --notes "Public media for Route Stories social posts"
+          fi
