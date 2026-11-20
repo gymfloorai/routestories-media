@@ -79,6 +79,11 @@
       "parts": 19,
       "sha256": "8aadc8e73814efcd06cce03aa4d7a8d987f2a79a5f90c05df76bfe5974f53aba",
       "bytes": 12364543
+    },
+    "chicago-scenic-cycle.mp4": {
+      "parts": 22,
+      "sha256": "e716edb7b6126cc214c5e50bcaa9442e48cc33ec7c8030e0a225cfbdc054b309",
+      "bytes": 14575119
     }
   }
 }
