@@ -154,6 +154,11 @@
       "parts": 22,
       "sha256": "272a430a8cd346621f3471a6a06e81d70d0e3b033afe28823c3322ffae2ab97a",
       "bytes": 14363878
+    },
+    "florence-christmas-walk.mp4": {
+      "parts": 21,
+      "sha256": "32447784a0a8ac363b132843d0c963febdde1ea30f670508c3ebb4eb6b2a5ecc",
+      "bytes": 13710769
     }
   }
 }
