@@ -44,6 +44,11 @@
       "parts": 20,
       "sha256": "99a7f83e485150fb9584785bbdafd13875bf5835499448437094bcade696c5ab",
       "bytes": 12961363
+    },
+    "milan-sights-walk.mp4": {
+      "parts": 20,
+      "sha256": "d098d84c5da8150a561d235e4c59f7c15aeb95e9c6e5dded501dbb9e8778fd35",
+      "bytes": 13004362
     }
   }
 }
