@@ -74,6 +74,11 @@
       "parts": 25,
       "sha256": "0b014429648ea696c4cba3ea699414a3370e2304c06ead195c7cc8ad72ec5662",
       "bytes": 16513406
+    },
+    "helsinki-christmas-walk.mp4": {
+      "parts": 19,
+      "sha256": "8aadc8e73814efcd06cce03aa4d7a8d987f2a79a5f90c05df76bfe5974f53aba",
+      "bytes": 12364543
     }
   }
 }
