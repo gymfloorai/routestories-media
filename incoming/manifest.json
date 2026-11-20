@@ -114,6 +114,11 @@
       "parts": 15,
       "sha256": "1d33f3aac5420d26b51a9a0b76db6b750812857ad6a442d95a7e3c6440e0a4d3",
       "bytes": 9784687
+    },
+    "copenhagen-christmas-walk.mp4": {
+      "parts": 20,
+      "sha256": "88774b86cfac08514e99ffa7942da9ca003ff1e3e1d65f0aacdc3c4ee56c47bd",
+      "bytes": 12965251
     }
   }
 }
