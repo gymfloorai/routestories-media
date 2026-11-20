@@ -124,6 +124,11 @@
       "parts": 17,
       "sha256": "77eef73d61bb4705f648034fbecef552f398eca37c7f11500b660ea27436183e",
       "bytes": 10929468
+    },
+    "krakow-christmas-walk.mp4": {
+      "parts": 19,
+      "sha256": "522988049ad902f21fd8d88e3930f40a1ead91642ec3b1cf8d28e3bd804cf74b",
+      "bytes": 12448535
     }
   }
 }
