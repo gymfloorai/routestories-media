@@ -84,6 +84,11 @@
       "parts": 22,
       "sha256": "e716edb7b6126cc214c5e50bcaa9442e48cc33ec7c8030e0a225cfbdc054b309",
       "bytes": 14575119
+    },
+    "stockholm-sights-walk.mp4": {
+      "parts": 16,
+      "sha256": "13f90551fb864ca5129957eb22eff4ead3fc6fde24d947ded0625e14d10ced07",
+      "bytes": 10598525
     }
   }
 }
