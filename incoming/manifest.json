@@ -149,6 +149,11 @@
       "parts": 16,
       "sha256": "0f676e28d42f360ed5e0e40760d8fbfc6a2bdfa9274357b2ce7b7c9876c8b789",
       "bytes": 10623243
+    },
+    "zurich-christmas-walk.mp4": {
+      "parts": 22,
+      "sha256": "272a430a8cd346621f3471a6a06e81d70d0e3b033afe28823c3322ffae2ab97a",
+      "bytes": 14363878
     }
   }
 }
