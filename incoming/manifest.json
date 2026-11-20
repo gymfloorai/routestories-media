@@ -139,6 +139,11 @@
       "parts": 25,
       "sha256": "e80b2c779e5d3813c8f0b603b7b1afcf9efe6a271a630b803eebb35b95e08388",
       "bytes": 16858296
+    },
+    "budapest-christmas-walk.mp4": {
+      "parts": 17,
+      "sha256": "8fbb34dd6ce87d6748891be7f2892cd485b06f77af84c0ee2ee788297b01daf9",
+      "bytes": 10812361
     }
   }
 }
