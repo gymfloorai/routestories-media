@@ -24,6 +24,11 @@
       "parts": 8,
       "sha256": "f0e2edf2ed135edcf9c1ee0ee52c6e6b13909e8cfe7b49e1d1d50dd1c3dce451",
       "bytes": 22615868
+    },
+    "salzburg-christmas-walk.mp4": {
+      "parts": 20,
+      "sha256": "dd35824c7cd6a83a5cbe4e2e9db13ad88f7afad6bbcef3b7c0e514273a17017d",
+      "bytes": 12977239
     }
   }
 }
