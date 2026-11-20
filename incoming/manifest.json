@@ -159,6 +159,11 @@
       "parts": 21,
       "sha256": "32447784a0a8ac363b132843d0c963febdde1ea30f670508c3ebb4eb6b2a5ecc",
       "bytes": 13710769
+    },
+    "2026-11-21-prague.png": {
+      "parts": 1,
+      "sha256": "a141c5366fcffa3253f786f7a52dd47a595aa84e7df6518eabd4131c0a34c8e8",
+      "bytes": 2176270
     }
   }
 }
