@@ -69,6 +69,11 @@
       "parts": 22,
       "sha256": "c5135e0cfcffd2703a05934c69bcb464a1a8b1b11522cba5c080b67bc60a9950",
       "bytes": 14284092
+    },
+    "rotterdam-scenic-cycle.mp4": {
+      "parts": 25,
+      "sha256": "0b014429648ea696c4cba3ea699414a3370e2304c06ead195c7cc8ad72ec5662",
+      "bytes": 16513406
     }
   }
 }
