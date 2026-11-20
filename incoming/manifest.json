@@ -64,6 +64,11 @@
       "parts": 17,
       "sha256": "db056f996ca299e6b519b85ec349d6c7d4a07e34d822e4bbb0484ab43ba2e48e",
       "bytes": 11395824
+    },
+    "madrid-sights-walk.mp4": {
+      "parts": 22,
+      "sha256": "c5135e0cfcffd2703a05934c69bcb464a1a8b1b11522cba5c080b67bc60a9950",
+      "bytes": 14284092
     }
   }
 }
