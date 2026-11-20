@@ -39,6 +39,11 @@
       "parts": 27,
       "sha256": "9ea9a58d5c01ceafb695b57d22053effdda4e3e6672f8d273d1e10d6f4345212",
       "bytes": 17740726
+    },
+    "ljubljana-christmas-walk.mp4": {
+      "parts": 20,
+      "sha256": "99a7f83e485150fb9584785bbdafd13875bf5835499448437094bcade696c5ab",
+      "bytes": 12961363
     }
   }
 }
