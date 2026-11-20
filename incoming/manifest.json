@@ -104,6 +104,11 @@
       "parts": 30,
       "sha256": "750b3271e7a177f06eebb7537b12cafe4353f0a4ccae6aa6594136f4ede68607",
       "bytes": 19880969
+    },
+    "reykjavik-christmas-walk.mp4": {
+      "parts": 14,
+      "sha256": "08218a8298505a03013df4a0d91cd29069a443dd303eca0cc283a0cd56cc1ad0",
+      "bytes": 9218996
     }
   }
 }
