@@ -59,6 +59,11 @@
       "parts": 28,
       "sha256": "b72d300d40710e3ab4421ba5501c11eba0062d3b3f835030420272c98cc94ba9",
       "bytes": 18491790
+    },
+    "istanbul-christmas-walk.mp4": {
+      "parts": 17,
+      "sha256": "db056f996ca299e6b519b85ec349d6c7d4a07e34d822e4bbb0484ab43ba2e48e",
+      "bytes": 11395824
     }
   }
 }
