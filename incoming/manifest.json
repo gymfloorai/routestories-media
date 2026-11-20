@@ -134,6 +134,11 @@
       "parts": 21,
       "sha256": "6c9031f63d34137636691672a8a89d64eae44b4d34ff551c6b49c213fb816969",
       "bytes": 14125874
+    },
+    "amsterdam-christmas-walk.mp4": {
+      "parts": 25,
+      "sha256": "e80b2c779e5d3813c8f0b603b7b1afcf9efe6a271a630b803eebb35b95e08388",
+      "bytes": 16858296
     }
   }
 }
