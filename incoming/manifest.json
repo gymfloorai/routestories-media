@@ -94,6 +94,11 @@
       "parts": 26,
       "sha256": "d748bc2c9296a6a6dfe4a8439dff97641579ed2e856ae018cc9ce234ce17f25d",
       "bytes": 16974937
+    },
+    "berlin-christmas-walk.mp4": {
+      "parts": 27,
+      "sha256": "a6467e8e9642a4ee9fe9902863c0bdad0ae8c635efb4fbc3997ab49630a95710",
+      "bytes": 17706640
     }
   }
 }
