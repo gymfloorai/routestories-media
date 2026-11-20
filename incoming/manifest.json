@@ -49,11 +49,6 @@
       "parts": 20,
       "sha256": "d098d84c5da8150a561d235e4c59f7c15aeb95e9c6e5dded501dbb9e8778fd35",
       "bytes": 13004362
-    },
-    "ghent-christmas-walk.mp4": {
-      "parts": 18,
-      "sha256": "3efbe21e2f32722bfd7af435c3f261b381df17a80e4d408a46de91213353ff08",
-      "bytes": 11684256
     }
   }
 }
