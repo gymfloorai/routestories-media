@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "incoming/**"
+      - "incoming/manifest.json"
       - ".github/workflows/publish-shorts.yml"
 permissions:
   contents: write
