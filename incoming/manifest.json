@@ -164,6 +164,151 @@
       "parts": 1,
       "sha256": "a141c5366fcffa3253f786f7a52dd47a595aa84e7df6518eabd4131c0a34c8e8",
       "bytes": 2176270
+    },
+    "2026-11-22-lisbon.png": {
+      "parts": 1,
+      "sha256": "2142fff6f6cc36ee7ae1540cf7579dcfe8b73c8d5b41f21fc6d1817d6266ae2c",
+      "bytes": 1696337
+    },
+    "2026-11-23-rome.png": {
+      "parts": 1,
+      "sha256": "461ad47454c7e841800fe2cd75c2d46475fde406cec1adac4abb2613eb7bf2fc",
+      "bytes": 2028771
+    },
+    "2026-11-24-istanbul.png": {
+      "parts": 1,
+      "sha256": "784038c32d47c9ee6c34861bf9d0a897dc0591008453842ceb3759eb73450449",
+      "bytes": 1290084
+    },
+    "2026-11-25-barcelona.png": {
+      "parts": 1,
+      "sha256": "ba9062b8add18fe1e5bcea88762e54fcfe7b015a409821cae1191b1a3062d194",
+      "bytes": 2190610
+    },
+    "2026-11-26-boston.png": {
+      "parts": 1,
+      "sha256": "7bb567437fb348bb1bc03b48357dc20a34940bdc50c36e9e044ce31fe3cbee2f",
+      "bytes": 1367500
+    },
+    "2026-11-27-vienna.png": {
+      "parts": 1,
+      "sha256": "2727d00df224d99710a8b807bf8911d65ca8c215b371325c7e4d23b7065597ac",
+      "bytes": 1944983
+    },
+    "2026-11-28-amsterdam.png": {
+      "parts": 1,
+      "sha256": "c95262bd4d76986615a40ff43e2a08fa224397a3b2447c6d3cacead94e3888c5",
+      "bytes": 1836865
+    },
+    "2026-11-29-reykjavik.png": {
+      "parts": 1,
+      "sha256": "3115a0beb82dacb58eb8449fa55c0e1e81e5406713833a30adc364d8ad6cc121",
+      "bytes": 2251631
+    },
+    "2026-11-30-paris.png": {
+      "parts": 1,
+      "sha256": "660695d6bca5a9ad97664e187c742639bc87aa8173737caaf79f4ac1efd5b232",
+      "bytes": 2070943
+    },
+    "2026-12-01-berlin.png": {
+      "parts": 1,
+      "sha256": "9da000197a8a782295d38531a7a10a995b4dc5d488becff792d601eee2468977",
+      "bytes": 1810511
+    },
+    "2026-12-02-florence.png": {
+      "parts": 1,
+      "sha256": "114e369aeb66d8f903d2d7774796a04b73b79a07150dd66ae080044a16afeb29",
+      "bytes": 1630187
+    },
+    "2026-12-03-new-york.png": {
+      "parts": 1,
+      "sha256": "2f0fa6c9bdb9187164669fb40a515303acf50d9879e13fd6fff98f24a07ac50a",
+      "bytes": 1825552
+    },
+    "2026-12-04-copenhagen.png": {
+      "parts": 1,
+      "sha256": "d17bfe051a473667f457c1379aa93de6696a3645b399d756e8b2506b3566d7a3",
+      "bytes": 1698086
+    },
+    "2026-12-05-dublin.png": {
+      "parts": 1,
+      "sha256": "b6ff6bb66736cbc06d09c4e7ce49c6117c05d484575adee1c46b049b0a0ff0f9",
+      "bytes": 1952485
+    },
+    "2026-12-06-krakow.png": {
+      "parts": 1,
+      "sha256": "b918500f1c5a0c1ab6ff75fd65318cad5a09758bafcd005c548f4f3dfa05423a",
+      "bytes": 2056407
+    },
+    "2026-12-07-san-francisco.png": {
+      "parts": 1,
+      "sha256": "7ebeea9bfa725c818aa54091a68f978f7fc30eb1678df3d2bef83ed9a224c1e8",
+      "bytes": 2357278
+    },
+    "2026-12-08-athens.png": {
+      "parts": 1,
+      "sha256": "71d575ce118b010bf981b2c4668d51aa699b7e807b7d70cd42af63d31b7ac169",
+      "bytes": 1971526
+    },
+    "2026-12-09-edinburgh.png": {
+      "parts": 1,
+      "sha256": "84e83c15a58557ede083cba6ef21a1e19e48d8db72713e4add78729a6d26be57",
+      "bytes": 1659505
+    },
+    "2026-12-10-porto.png": {
+      "parts": 1,
+      "sha256": "36a98e460ba29d9be168d6fd6b87bbbfb04cdf5677ed1ce323270586488059b2",
+      "bytes": 2073528
+    },
+    "2026-12-11-budapest.png": {
+      "parts": 1,
+      "sha256": "3836fa23f4577486210c4dc096287724a1ce93e87743d94fd11929cdc3c9f8c1",
+      "bytes": 1839594
+    },
+    "2026-12-12-venice.png": {
+      "parts": 1,
+      "sha256": "e42dbe558d4dc26d7684fa851afb6b697adb2cf6514774c18897b301c977ef1a",
+      "bytes": 1560790
+    },
+    "2026-12-13-stockholm.png": {
+      "parts": 1,
+      "sha256": "859c1fe8626473958cb528bbd8daa81e5a7669e5eaf4077f9f3c196eb7e413de",
+      "bytes": 1917848
+    },
+    "2026-12-14-seville.png": {
+      "parts": 1,
+      "sha256": "50ccd0509547f0329d05c71c48e79bd4061f96332b180761d277782f4dca1013",
+      "bytes": 1606828
+    },
+    "2026-12-15-zurich.png": {
+      "parts": 1,
+      "sha256": "4d4aa547198f2778d012756b738ea51a94e2f8c3f681f1a03c1fcd30c5ce358d",
+      "bytes": 2228839
+    },
+    "2026-12-16-dubrovnik.png": {
+      "parts": 1,
+      "sha256": "e53ddfb894a8dd994de82c907d871b8f121090aa70e00bd46ef864dafe07872e",
+      "bytes": 1723359
+    },
+    "2026-12-17-helsinki.png": {
+      "parts": 1,
+      "sha256": "cb1e00313458cbbc897aac378f3c71f0bb3b1c0f4d61970d6ea49890248f0c35",
+      "bytes": 1611270
+    },
+    "2026-12-18-bruges.png": {
+      "parts": 1,
+      "sha256": "d0cec86e9137fbbc7e7ba38e3f5c249b306e38c1f4378d9d75ca1268fdf4a684",
+      "bytes": 1575300
+    },
+    "2026-12-19-tallinn.png": {
+      "parts": 1,
+      "sha256": "60839e6a97bfff48c77f4d75cb33a60d16d60ab0424f7624c74ab173bd00c5c0",
+      "bytes": 1628082
+    },
+    "2026-12-20-london.png": {
+      "parts": 1,
+      "sha256": "6578c1a99cc73fc49b9ca221d705b58d52a1e6c28e0231948b13657bc6ff628b",
+      "bytes": 1703142
     }
   }
 }
