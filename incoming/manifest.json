@@ -89,6 +89,11 @@
       "parts": 16,
       "sha256": "13f90551fb864ca5129957eb22eff4ead3fc6fde24d947ded0625e14d10ced07",
       "bytes": 10598525
+    },
+    "paris-christmas-walk.mp4": {
+      "parts": 26,
+      "sha256": "d748bc2c9296a6a6dfe4a8439dff97641579ed2e856ae018cc9ce234ce17f25d",
+      "bytes": 16974937
     }
   }
 }
