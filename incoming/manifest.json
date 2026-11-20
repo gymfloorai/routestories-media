@@ -29,6 +29,11 @@
       "parts": 20,
       "sha256": "dd35824c7cd6a83a5cbe4e2e9db13ad88f7afad6bbcef3b7c0e514273a17017d",
       "bytes": 12977239
+    },
+    "oslo-christmas-walk.mp4": {
+      "parts": 24,
+      "sha256": "530905863961dc51006d23a94be0f8988caf13c0768e31647ecf1e4859ea6c9c",
+      "bytes": 15971827
     }
   }
 }
